@@ -63,7 +63,6 @@
 }
 
 .containerleft {
-
     background-color: white;
     height: 25%;
     width: 15%;
@@ -73,12 +72,6 @@
     padding: 30px;
     float: left;
 }
-
-
-
-
-
-
 
 .centersection {
     background-color: white;
@@ -92,15 +85,14 @@
 
 .sectionright {
     float: right;
+    height: 65%;
     margin-top: 5px;
     width: 15%;
     border-radius: 5px;
-
 }
 
 .box1 {
     background-color: white;
-
     border-radius: 5px;
     margin-bottom: 5px;
     padding: 20px;
@@ -111,7 +103,6 @@
     border-radius: 5px;
     margin-bottom: 5px;
     padding: 20px;
-
 }
 
 .box3 {
@@ -119,7 +110,13 @@
     background-color: white;
     margin-bottom: 5px;
     padding: 20px;
+}
 
+.box4 {
+    border-radius: 5px;
+    background-color: white;
+    margin-bottom: 5px;
+    padding: 20px;
 }
 
 footer {
