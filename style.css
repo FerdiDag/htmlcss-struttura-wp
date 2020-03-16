@@ -6,13 +6,14 @@
 
 #wrap {
     height: 2000px;
-    width: 1800px;
+    width: 1400px;
     margin: auto;
+    background-image: url("img/default-pattern.png")
 }
 
 .container {
     height: 100%;
-    width: 1600px;
+    width: 1000px;
     margin: auto;
     background-image: url("img/default-pattern.png")
 }
@@ -59,4 +60,33 @@
 .menu a {
     color: white;
     margin: 15px;
+}
+
+.right {
+    background-color: red;
+    height: 25%;
+    width: 15%;
+    border-radius: 5px;
+    margin-top: 5px;
+    float: right;
+
+}
+
+.left {
+    background-color: blue;
+    height: 25%;
+    width: 15%;
+    border-radius: 5px;
+    margin-top: 5px;
+    float: left;
+}
+
+.box {
+    background-color: white;
+    height: 15%;
+    width: 50%;
+    border-radius: 5px;
+    margin-top: 5px;
+    float:right;
+
 }
