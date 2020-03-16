@@ -91,6 +91,7 @@
 
 .box1 {
     background-color: white;
+
     border-radius: 5px;
     margin-top: 1px;
     padding: 20px;
@@ -111,7 +112,7 @@
 }
 
 footer {
-    clear: both;
+    display: inline-block;
     height: 100px;
     width: 1000px;
     text-align: center;
